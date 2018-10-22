@@ -1,0 +1,7 @@
+venv
+models/*
+tflogs/*
+*.pyc
+training_data
+
+!.gitkeep
